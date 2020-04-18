@@ -29,6 +29,9 @@ type Event struct {
 	Nid           int64     `json:"nid"`
 	NeedUpgrade   int       `json:"need_upgrade"`
 	AlertUpgrade  string    `json:"alert_upgrade"`
+	RecvUserIDs   []int64   `json:"recv_user_ids" xorm:"-"`
+	RecvUserObjs  []User    `json:"recv_user_objs" xorm:"-"`
+	RealUpgrade   bool      `json:"real_upgrade" xorm:"-"`
 }
 
 type EventDetail struct {
@@ -36,6 +39,7 @@ type EventDetail struct {
 	Tags       map[string]string   `json:"tags"`
 	Points     []*EventDetailPoint `json:"points"`
 	PredPoints []*EventDetailPoint `json:"pred_points,omitempty"` // 预测值, 预测值不为空时, 现场值对应的是实际值
+	Extra      string              `json:"extra"`
 }
 
 type EventDetailPoint struct {

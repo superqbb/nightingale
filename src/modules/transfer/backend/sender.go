@@ -17,7 +17,7 @@ import (
 // send
 const (
 	DefaultSendTaskSleepInterval = time.Millisecond * 50 //默认睡眠间隔为50ms
-	MAX_SEND_RETRY               = 10
+	MaxSendRetry                 = 10
 )
 
 var (
@@ -53,7 +53,7 @@ func startSendTasks() {
 	}
 }
 
-func Send2TsdbTask(Q *list.SafeListLimited, node string, addr string, concurrent int) {
+func Send2TsdbTask(Q *list.SafeListLimited, node, addr string, concurrent int) {
 	batch := Config.Batch // 一次发送,最多batch条数据
 	Q = TsdbQueues[node+addr]
 
@@ -62,17 +62,15 @@ func Send2TsdbTask(Q *list.SafeListLimited, node string, addr string, concurrent
 	for {
 		items := Q.PopBackBy(batch)
 		count := len(items)
-		stats.Counter.Set("tsdb.queue.push", count)
-
 		if count == 0 {
 			time.Sleep(DefaultSendTaskSleepInterval)
 			continue
 		}
 
 		tsdbItems := make([]*dataobj.TsdbItem, count)
+		stats.Counter.Set("points.out.tsdb", count)
 		for i := 0; i < count; i++ {
 			tsdbItems[i] = items[i].(*dataobj.TsdbItem)
-			stats.Counter.Set("points.out.tsdb", 1)
 			logger.Debug("send to tsdb->: ", tsdbItems[i])
 		}
 
@@ -93,10 +91,8 @@ func Send2TsdbTask(Q *list.SafeListLimited, node string, addr string, concurrent
 				time.Sleep(time.Millisecond * 10)
 			}
 
-			// statistics
-			//atomic.AddInt64(&PointOut2Tsdb, int64(count))
 			if !sendOk {
-				stats.Counter.Set("points.out.tsdb.err", 1)
+				stats.Counter.Set("points.out.tsdb.err", count)
 				logger.Errorf("send %v to tsdb %s:%s fail: %v", tsdbItems, node, addr, err)
 			} else {
 				logger.Debugf("send to tsdb %s:%s ok", node, addr)
@@ -105,7 +101,7 @@ func Send2TsdbTask(Q *list.SafeListLimited, node string, addr string, concurrent
 	}
 }
 
-// 将数据 打入 某个Tsdb的发送缓存队列, 具体是哪一个Tsdb 由一致性哈希 决定
+// Push2TsdbSendQueue pushes data to a TSDB instance which depends on the consistent ring.
 func Push2TsdbSendQueue(items []*dataobj.MetricValue) {
 	errCnt := 0
 	for _, item := range items {
@@ -114,13 +110,14 @@ func Push2TsdbSendQueue(items []*dataobj.MetricValue) {
 
 		node, err := TsdbNodeRing.GetNode(item.PK())
 		if err != nil {
-			logger.Warning("E:", err)
+			logger.Warningf("get tsdb node error: %v", err)
 			continue
 		}
 
 		cnode := Config.ClusterList[node]
 		for _, addr := range cnode.Addrs {
 			Q := TsdbQueues[node+addr]
+			// 队列已满
 			if !Q.PushFront(tsdbItem) {
 				errCnt += 1
 			}
@@ -145,11 +142,10 @@ func Send2JudgeTask(Q *list.SafeListLimited, addr string, concurrent int) {
 			time.Sleep(DefaultSendTaskSleepInterval)
 			continue
 		}
-
 		judgeItems := make([]*dataobj.JudgeItem, count)
+		stats.Counter.Set("points.out.judge", count)
 		for i := 0; i < count; i++ {
 			judgeItems[i] = items[i].(*dataobj.JudgeItem)
-			stats.Counter.Set("points.out.judge", 1)
 			logger.Debug("send to judge: ", judgeItems[i])
 		}
 
@@ -160,7 +156,7 @@ func Send2JudgeTask(Q *list.SafeListLimited, addr string, concurrent int) {
 			resp := &dataobj.SimpleRpcResponse{}
 			var err error
 			sendOk := false
-			for i := 0; i < MAX_SEND_RETRY; i++ {
+			for i := 0; i < MaxSendRetry; i++ {
 				err = JudgeConnPools.Call(addr, "Judge.Send", judgeItems, resp)
 				if err == nil {
 					sendOk = true
@@ -171,8 +167,10 @@ func Send2JudgeTask(Q *list.SafeListLimited, addr string, concurrent int) {
 			}
 
 			if !sendOk {
-				stats.Counter.Set("points.out.judge.err", 1)
-				logger.Errorf("send %v to judge %s fail: %v", judgeItems, addr, err)
+				stats.Counter.Set("points.out.judge.err", count)
+				for _, item := range judgeItems {
+					logger.Errorf("send %v to judge %s fail: %v", item, addr, err)
+				}
 			}
 
 		}(addr, judgeItems, count)
@@ -186,7 +184,6 @@ func Push2JudgeSendQueue(items []*dataobj.MetricValue) {
 		stras := cache.StraMap.GetByKey(key)
 
 		for _, stra := range stras {
-
 			if !TagMatch(stra.Tags, item.TagsMap) {
 				continue
 			}
@@ -200,6 +197,7 @@ func Push2JudgeSendQueue(items []*dataobj.MetricValue) {
 				TagsMap:   item.TagsMap,
 				Step:      int(item.Step),
 				Sid:       stra.Id,
+				Extra:     item.Extra,
 			}
 
 			q, exists := JudgeQueues.Get(stra.JudgeInstance)
@@ -213,7 +211,7 @@ func Push2JudgeSendQueue(items []*dataobj.MetricValue) {
 	stats.Counter.Set("judge.queue.err", errCnt)
 }
 
-// 打到Tsdb的数据,要根据rrdtool的特定 来限制 step、counterType、timestamp
+// 打到 Tsdb 的数据,要根据 rrdtool 的特定 来限制 step、counterType、timestamp
 func convert2TsdbItem(d *dataobj.MetricValue) *dataobj.TsdbItem {
 	item := &dataobj.TsdbItem{
 		Endpoint:  d.Endpoint,
@@ -244,7 +242,7 @@ func TagMatch(straTags []model.Tag, tag map[string]string) bool {
 			return false
 		}
 		var match bool
-		if stag.Topt == "=" { //当前策略tagkey对应的tagv
+		if stag.Topt == "=" { //当前策略 tagkey 对应的 tagv
 			for _, v := range stag.Tval {
 				if tag[stag.Tkey] == v {
 					match = true

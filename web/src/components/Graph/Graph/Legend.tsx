@@ -3,6 +3,7 @@ import { Table, Input, Button, Modal } from 'antd';
 import { ColumnProps, TableRowSelection } from 'antd/es/table';
 import Color from 'color';
 import _ from 'lodash';
+import { injectIntl } from 'react-intl';
 import clipboard from '@common/clipboard';
 import ContextMenu from '@cpts/ContextMenu';
 import { SerieInterface, PointInterface } from '../interface';
@@ -35,7 +36,7 @@ interface LegendDataItem extends SerieInterface {
   last: number | null,
 }
 
-export default class Legend extends Component<Props, State> {
+class Legend extends Component<Props, State> {
   static defaultProps = {
     style: {},
     series: [],
@@ -91,7 +92,7 @@ export default class Legend extends Component<Props, State> {
     const copySucceeded = clipboard(currentCounter);
     if (!copySucceeded) {
       Modal.info({
-        title: '复制失败，请手动选择复制',
+        title: 'Copy failed, please manually select copy',
         content: (
           <p>{currentCounter}</p>
         ),
@@ -125,30 +126,30 @@ export default class Legend extends Component<Props, State> {
   }
 
   render() {
-    const { onSelectedChange } = this.props;
+    const { comparisonOptions, onSelectedChange } = this.props;
     const { searchText, selectedKeys, highlightedKeys } = this.state;
     const counterSelectedKeys = highlightedKeys;
     const data = this.filterData();
     const firstData = data[0];
     const columns: ColumnProps<LegendDataItem>[] = [
       {
-        title: <span> 曲线({data.length}) </span>,
+        title: <span> Series({data.length}) </span>,
         dataIndex: 'tags',
         filterDropdown: (
           <div className="custom-filter-dropdown">
             <Input
-              placeholder="请输入曲线名称"
+              placeholder="Input serie name"
               value={searchText}
               onChange={this.handleInputChange}
               onPressEnter={this.handleSearch}
             />
-            <Button type="primary" onClick={this.handleSearch}>搜索</Button>
+            <Button type="primary" onClick={this.handleSearch}>Search</Button>
           </div>
         ),
         filterDropdownVisible: this.state.filterDropdownVisible,
         onFilterDropdownVisibleChange: (visible: boolean) => this.setState({ filterDropdownVisible: visible }),
         render: (text, record) => {
-          const legendName = getLengendName(record);
+          const legendName = getLengendName(record, comparisonOptions, this.props.intl);
           return (
             <span
               title={text}
@@ -224,7 +225,7 @@ export default class Legend extends Component<Props, State> {
 
     if (_.get(firstData, 'isSameMetric') === false) {
       columns.unshift({
-        title: '指标',
+        title: 'Metric',
         dataIndex: 'metric',
         width: 60,
       });
@@ -247,7 +248,7 @@ export default class Legend extends Component<Props, State> {
         <ContextMenu visible={this.state.contextMenuVisiable} left={this.state.contextMenuLeft} top={this.state.contextMenuTop}>
           <ul className="ant-dropdown-menu ant-dropdown-menu-vertical ant-dropdown-menu-light ant-dropdown-menu-root">
             <li className="ant-dropdown-menu-item">
-              <a onClick={this.handleCopyCounter}>复制 counter</a>
+              <a onClick={this.handleCopyCounter}>copy counter</a>
             </li>
           </ul>
         </ContextMenu>
@@ -258,12 +259,13 @@ export default class Legend extends Component<Props, State> {
 
 export function normalizeLegendData(series: SerieInterface[] = []) {
   const tableData = _.map(series, (serie) => {
-    const { id, metric, tags, data } = serie;
+    const { id, metric, tags, data, comparison } = serie;
     const { last, avg, max, min, sum } = getLegendNums(data);
     return {
       id,
       metric,
       tags,
+      comparison,
       last,
       avg,
       max,
@@ -348,9 +350,17 @@ function getLegendNums(points: PointInterface[]) {
   return { last, avg, max, min, sum };
 }
 
-function getLengendName(serie: SerieInterface) {
-  const { tags } = serie;
+function getLengendName(serie: SerieInterface, comparisonOptions: any, intl: any) {
+  const { tags, comparison } = serie;
   let lname = tags;
+  // display comparison
+  if (comparison && typeof comparison === 'number') {
+    const currentComparison = _.find(comparisonOptions, { value: `${comparison}000` });
+    if (currentComparison && currentComparison.label) {
+      const postfix = intl.locale === 'en' ? currentComparison.labelEn : `环比${currentComparison.label}`;
+      lname += ` ${postfix}`;
+    }
+  }
   // shorten name
   if (lname.length > 80) {
     const leftStr = lname.substr(0, 40);
@@ -369,3 +379,5 @@ function isEqualSeries(series: SerieInterface[], nextSeries: SerieInterface[]) {
   });
   return _.isEqual(pureSeries, pureNextSeries);
 }
+
+export default injectIntl(Legend);

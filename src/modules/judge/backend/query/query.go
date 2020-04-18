@@ -30,7 +30,7 @@ type IndexRequest struct {
 type Counter struct {
 	Counter string `json:"counter"`
 	Step    int    `json:"step"`
-	Dstype  string `json:"dstype`
+	Dstype  string `json:"dstype"`
 }
 
 // 执行Query操作
@@ -41,7 +41,7 @@ func Query(reqs []*dataobj.QueryData) ([]*dataobj.TsdbQueryResponse, error) {
 	var resp *dataobj.QueryDataResp
 	var err error
 	for i := 0; i < 3; i++ {
-		err = TransferConnPools.Call("Transfer.Query", reqs, &resp)
+		err = TransferConnPools.Call("", "Transfer.Query", reqs, &resp)
 		if err == nil {
 			break
 		}
