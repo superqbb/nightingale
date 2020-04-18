@@ -8,10 +8,16 @@ import (
 	"os/signal"
 	"syscall"
 
+	"github.com/didi/nightingale/src/modules/collector/cache"
 	"github.com/didi/nightingale/src/modules/collector/config"
 	"github.com/didi/nightingale/src/modules/collector/http/routes"
+	"github.com/didi/nightingale/src/modules/collector/log/worker"
 	"github.com/didi/nightingale/src/modules/collector/stra"
 	"github.com/didi/nightingale/src/modules/collector/sys"
+	"github.com/didi/nightingale/src/modules/collector/sys/funcs"
+	"github.com/didi/nightingale/src/modules/collector/sys/plugins"
+	"github.com/didi/nightingale/src/modules/collector/sys/ports"
+	"github.com/didi/nightingale/src/modules/collector/sys/procs"
 	"github.com/didi/nightingale/src/toolkits/http"
 	"github.com/didi/nightingale/src/toolkits/identity"
 	tlogger "github.com/didi/nightingale/src/toolkits/logger"
@@ -65,25 +71,28 @@ func main() {
 	sys.Init(cfg.Sys)
 	stra.Init(cfg.Stra)
 
-	/*
-		funcs.BuildMappers()
-		funcs.Collect()
+	funcs.InitRpcClients()
+	funcs.BuildMappers()
+	funcs.Collect()
 
-		//插件采集
-		plugins.Detect()
+	//插件采集
+	plugins.Detect()
 
-		//进程采集
-		procs.Detect()
+	//进程采集
+	procs.Detect()
 
-		//端口采集
-		ports.Detect()
+	//端口采集
+	ports.Detect()
 
-		//日志采集
-		worker.Init(config.Config.Worker)
-		go worker.UpdateConfigsLoop()
-		go worker.PusherStart()
-		go worker.Zeroize()
-	*/
+	//初始化缓存，用作保存COUNTER类型数据
+	cache.Init()
+
+	//日志采集
+	worker.Init(config.Config.Worker)
+	go worker.UpdateConfigsLoop()
+	go worker.PusherStart()
+	go worker.Zeroize()
+
 	r := gin.New()
 	routes.Config(r)
 	http.Start(r, "collector", cfg.Logger.Level)

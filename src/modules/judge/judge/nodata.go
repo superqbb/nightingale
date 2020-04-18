@@ -18,7 +18,7 @@ func NodataJudge(concurrency int) {
 	if concurrency < 1 {
 		concurrency = 1000
 	}
-	nodataJob = semaphore.NewSemaphore(1000)
+	nodataJob = semaphore.NewSemaphore(concurrency)
 
 	t1 := time.NewTicker(time.Duration(9000) * time.Millisecond)
 	nodataJudge()
@@ -45,21 +45,20 @@ func nodataJudge() {
 					Endpoint: endpoint,
 					Metric:   stra.Exprs[0].Metric,
 					Tags:     "",
+					TagsMap:  map[string]string{},
 					DsType:   "GAUGE",
 				}
 
 				nodataJob.Acquire()
-				go func(stra *model.Stra, exps []model.Exp, historyData []*dataobj.RRDData, firstItem *dataobj.JudgeItem, now int64, history []dataobj.History, info string, value string) {
-					defer nodataJob.Release()
-					Judge(stra, exps, historyData, firstItem, now, history, info, value)
-				}(stra, stra.Exprs, []*dataobj.RRDData{}, judgeItem, now, []dataobj.History{}, "", "")
+				go AsyncJudge(nodataJob, stra, stra.Exprs, []*dataobj.RRDData{}, judgeItem, now, []dataobj.History{}, "", "", "", []bool{})
 			}
 			return
 		}
 
 		for _, data := range respData {
 			var metric, tag string
-			arr := strings.Split(data.Counter, "/")
+			// 兼容格式disk.bytes.free/mount=/data/docker/overlay2/xxx/merged
+			arr := strings.SplitN(data.Counter, "/", 2)
 			if len(arr) == 2 {
 				metric = arr[0]
 				tag = arr[1]
@@ -74,15 +73,18 @@ func nodataJudge() {
 				Endpoint: data.Endpoint,
 				Metric:   metric,
 				Tags:     tag,
+				TagsMap:  dataobj.DictedTagstring(tag),
 				DsType:   data.DsType,
 				Step:     data.Step,
 			}
 
 			nodataJob.Acquire()
-			go func(stra *model.Stra, exps []model.Exp, historyData []*dataobj.RRDData, firstItem *dataobj.JudgeItem, now int64, history []dataobj.History, info string, value string) {
-				defer nodataJob.Release()
-				Judge(stra, exps, historyData, firstItem, now, history, info, value)
-			}(stra, stra.Exprs, data.Values, judgeItem, now, []dataobj.History{}, "", "")
+			go AsyncJudge(nodataJob, stra, stra.Exprs, data.Values, judgeItem, now, []dataobj.History{}, "", "", "", []bool{})
 		}
 	}
+}
+
+func AsyncJudge(sema *semaphore.Semaphore, stra *model.Stra, exps []model.Exp, historyData []*dataobj.RRDData, firstItem *dataobj.JudgeItem, now int64, history []dataobj.History, info string, value string, extra string, status []bool) {
+	defer sema.Release()
+	Judge(stra, exps, historyData, firstItem, now, history, info, value, extra, status)
 }
