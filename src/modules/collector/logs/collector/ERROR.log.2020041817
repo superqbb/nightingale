@@ -1,0 +1,1080 @@
+2020-04-18 17:00:08.471162 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:00:18.472029 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:00:28.475272 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:00:38.470878 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:00:48.472801 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:00:58.467320 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:01:08.468195 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:01:18.465758 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:01:28.465558 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:01:38.465313 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:01:48.462169 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:01:58.462194 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:02:08.464878 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:02:18.462124 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:02:28.467290 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:02:38.464148 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:02:48.465268 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:02:58.465838 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:03:08.463904 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:03:18.464635 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:03:28.468816 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:03:38.468835 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:03:48.465829 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:03:58.466233 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:04:08.467697 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:04:18.468699 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:04:28.465738 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:04:38.469386 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:04:48.468753 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:04:58.469500 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:05:08.470303 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:05:18.470761 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:05:28.472021 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:05:38.471633 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:05:48.471524 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:05:58.472378 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:06:08.472775 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:06:18.473252 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:06:28.473748 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:06:38.474196 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:06:48.473292 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:06:58.473419 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:07:08.470028 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:07:18.474147 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:07:28.474963 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:07:38.471393 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:07:48.475559 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:07:58.475229 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:08:08.475854 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:08:18.475545 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:08:28.477196 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:08:38.476887 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:08:48.477156 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:08:58.477221 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:09:08.476546 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:09:18.478592 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:09:28.475261 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:09:38.474724 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:09:48.479420 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:09:58.478558 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:10:08.478160 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:10:18.480265 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:10:28.475600 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:10:38.480791 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:10:48.478486 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:10:58.481272 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:11:08.477753 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:11:18.480730 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:11:28.480787 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:11:38.482109 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:11:48.482455 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:11:58.483054 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:12:08.482511 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:12:18.479133 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:12:28.482710 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:12:38.479073 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:12:48.479736 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:12:58.479671 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:13:08.480095 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:13:18.485224 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:13:28.483189 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:13:38.482313 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:13:48.485990 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:13:58.483229 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:14:08.481638 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:14:18.482673 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:14:28.482163 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:14:38.486100 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:14:48.484056 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:14:58.483321 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:15:08.483310 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:15:18.485042 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:15:28.487825 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:15:38.484484 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:15:48.489299 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:15:58.485151 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:16:08.484787 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:16:18.486290 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:16:28.489153 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:16:38.486508 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:16:48.490926 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:16:58.488679 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:17:08.490725 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:17:18.491833 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:17:28.492036 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:17:38.492343 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:17:48.492047 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:17:58.488454 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:18:08.492032 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:18:18.488945 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:18:28.493569 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:18:38.491760 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:18:48.494126 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:18:58.490661 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:19:08.492275 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:19:18.492825 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:19:28.490404 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:19:38.491317 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:19:48.491299 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:19:58.494743 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:20:08.496003 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:20:18.492577 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:20:28.492736 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:20:38.496884 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:20:48.495681 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:20:58.492978 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:21:08.493221 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:21:18.497659 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:21:28.494633 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:21:38.496542 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:21:48.495048 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:21:58.496755 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:22:08.494732 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:22:18.495728 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:22:28.500001 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:22:38.500564 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:22:48.497208 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:22:58.500949 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:23:08.501002 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:23:18.496622 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:23:28.497232 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:23:38.499406 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:23:48.501244 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:23:58.502861 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:24:08.500068 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:24:18.503344 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:24:28.502262 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:24:38.502736 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:24:48.503832 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:24:58.499722 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:25:08.499658 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:25:18.501324 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:25:28.502850 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:25:38.502019 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:25:48.503053 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:25:58.504481 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:26:08.506150 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:26:18.503912 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:26:28.502015 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:26:38.502407 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:26:48.503225 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:26:58.505276 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:27:08.503836 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:27:18.503354 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:27:28.505160 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:27:38.508675 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:27:48.505867 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:27:58.508830 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:28:08.505668 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:28:18.507492 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:28:28.505495 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:28:38.505777 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:28:48.505696 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:28:58.506343 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:29:08.507629 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:29:18.511095 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:29:28.509841 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:29:38.507710 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:29:48.508911 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:29:58.507851 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:30:08.507974 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:30:18.511542 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:30:28.509683 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:30:38.508765 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:30:48.509624 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:30:58.509874 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:31:08.510429 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:31:18.509996 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:31:28.511749 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:31:38.515575 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:31:48.513145 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:31:58.514086 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:32:08.513554 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:32:18.513356 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:32:28.516362 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:32:38.512717 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:32:48.517323 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:32:58.512825 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:33:08.513113 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:33:18.517710 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:33:28.515198 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:33:38.516268 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:33:48.518955 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:33:58.516430 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:34:08.515468 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:34:18.518007 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:34:28.517661 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:34:38.516587 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:34:48.518990 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:34:58.518712 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:35:08.516268 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:35:18.516443 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:35:28.516693 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:35:38.511147 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:35:48.509900 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:35:58.502953 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:36:08.506253 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:36:18.502437 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:36:28.504069 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:36:38.503979 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:36:48.505536 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:36:58.501713 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:37:08.502438 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:37:18.505846 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:37:28.507147 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:37:38.504938 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:37:48.504275 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:37:58.503653 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:38:08.508025 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:38:18.505296 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:38:28.507432 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:38:38.504533 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:38:48.506434 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:38:58.509375 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:39:08.506995 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:39:18.508946 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:39:28.508068 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:39:38.508530 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:39:48.509090 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:39:58.509590 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:40:08.509965 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:40:18.510429 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:40:28.510903 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:40:38.512928 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:40:48.511793 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:40:58.512350 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:41:08.512823 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:41:18.513298 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:41:28.514103 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:41:38.514677 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:41:48.514928 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:41:58.514003 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:42:08.515512 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:42:18.512709 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:42:28.513088 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:42:38.513919 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:42:48.514581 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:42:58.516716 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:43:08.513923 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:43:18.512774 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:43:28.514249 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:43:38.513215 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:43:48.514111 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:43:58.515489 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:44:08.514402 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:44:18.516346 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:44:28.515177 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:44:38.515011 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:44:48.519301 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:44:58.518132 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:45:08.518451 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:45:18.520322 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:45:28.516218 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:45:38.520360 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:45:48.520344 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:45:58.518343 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:46:08.518290 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:46:18.521020 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:46:28.522980 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:46:38.522205 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:46:48.522297 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:46:58.521204 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:47:08.519277 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:47:18.521609 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:47:28.521751 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:47:38.524922 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:47:48.520366 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:47:58.522995 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:48:08.522627 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:48:18.525235 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:48:28.523216 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:48:38.523917 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:48:48.522216 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:48:58.523619 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:49:08.524277 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:49:18.523433 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:49:28.527160 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:49:38.523660 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:49:48.523844 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:49:58.524586 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:50:08.524499 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:50:18.524467 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:50:28.525290 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:50:38.530145 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:50:48.526836 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:50:58.527853 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:51:08.528166 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:51:18.526465 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:51:28.526727 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:51:38.528903 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:51:48.529839 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:51:58.531235 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:52:08.528200 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:52:18.528172 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:52:28.532353 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:52:38.533300 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:52:48.529947 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:52:58.529793 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:53:08.529300 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:53:18.529675 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:53:28.530107 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:53:38.530037 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:53:48.530564 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:53:58.533627 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:54:08.533103 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:54:18.534160 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:54:28.531553 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:54:38.531804 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:54:48.537131 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:54:58.534113 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:55:08.534284 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:55:18.534417 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:55:28.534645 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:55:38.538462 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:55:48.534473 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:55:58.534475 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:56:08.534890 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:56:18.539463 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:56:28.534915 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:56:38.537174 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:56:48.540281 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:56:58.539283 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:57:08.538575 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:57:18.536314 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:57:28.541533 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:57:38.541102 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:57:48.541718 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:57:58.539713 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:58:08.539820 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:58:18.538521 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:58:28.541672 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:58:38.540505 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:58:48.541035 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:58:58.541361 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:59:08.544079 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:59:18.542494 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:59:28.543550 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:59:38.540686 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:59:48.544776 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL
+2020-04-18 17:59:58.541306 ERROR stra/cron.go:36 get collect err:get collects from remote:http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1 failed, error:parse http://127.0.0.1:5800/api/portal/collects/usage: route [-dnqtv] command [[modifiers] args]
+127.0.0.1: net/url: invalid control character in URL

@@ -5,3 +5,7 @@ WORKDIR /app
 COPY . .
 
 RUN npm install
+
+RUN npm run start
+
+EXPOSE 8010
