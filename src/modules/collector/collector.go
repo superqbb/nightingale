@@ -8,16 +8,10 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/didi/nightingale/src/modules/collector/cache"
 	"github.com/didi/nightingale/src/modules/collector/config"
 	"github.com/didi/nightingale/src/modules/collector/http/routes"
-	"github.com/didi/nightingale/src/modules/collector/log/worker"
 	"github.com/didi/nightingale/src/modules/collector/stra"
 	"github.com/didi/nightingale/src/modules/collector/sys"
-	"github.com/didi/nightingale/src/modules/collector/sys/funcs"
-	"github.com/didi/nightingale/src/modules/collector/sys/plugins"
-	"github.com/didi/nightingale/src/modules/collector/sys/ports"
-	"github.com/didi/nightingale/src/modules/collector/sys/procs"
 	"github.com/didi/nightingale/src/toolkits/http"
 	"github.com/didi/nightingale/src/toolkits/identity"
 	tlogger "github.com/didi/nightingale/src/toolkits/logger"
@@ -70,7 +64,7 @@ func main() {
 
 	sys.Init(cfg.Sys)
 	stra.Init(cfg.Stra)
-
+/*
 	funcs.InitRpcClients()
 	funcs.BuildMappers()
 	funcs.Collect()
@@ -92,7 +86,7 @@ func main() {
 	go worker.UpdateConfigsLoop()
 	go worker.PusherStart()
 	go worker.Zeroize()
-
+*/
 	r := gin.New()
 	routes.Config(r)
 	http.Start(r, "collector", cfg.Logger.Level)
